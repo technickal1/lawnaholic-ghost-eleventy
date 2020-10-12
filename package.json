@@ -1,7 +1,7 @@
 {
-  "name": "lawnaholic-static",
+  "name": "Servant Dad - Static",
   "version": "1.0.0",
-  "description": "A newer and faster Lawnaholic",
+  "description": "A super fast Servant Dad",
   "main": ".eleventy.js",
   "scripts": {
     "start": "yarn run dev",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/technickal1/lawnaholic-ghost-eleventy.git"
+    "url": "git+https://github.com/technickal1/servant-dad-ghost-eleventy.git"
   },
   "keywords": [
     "eleventy",
@@ -23,7 +23,7 @@
     "site",
     "jamstack"
   ],
-  "author": "David Darnes",
+  "author": "Servant Dad",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TryGhost/eleventy-starter-ghost/issues"
