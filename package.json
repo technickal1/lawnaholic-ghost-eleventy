@@ -1,5 +1,5 @@
 {
-  "name": "Servant Dad - Static",
+  "name": "ServantDad-Static",
   "version": "1.0.0",
   "description": "A super fast Servant Dad",
   "main": ".eleventy.js",
