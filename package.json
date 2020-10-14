@@ -1,7 +1,7 @@
 {
-  "name": "ServantDad-Static",
+  "name": "Lawnaholic-Static",
   "version": "1.0.0",
-  "description": "A super fast Servant Dad",
+  "description": "A super fast Lawnaholic",
   "main": ".eleventy.js",
   "scripts": {
     "start": "yarn run dev",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/technickal1/servant-dad-ghost-eleventy.git"
+    "url": "git+https://github.com/technickal1/lawnaholic-ghost-eleventy.git"
   },
   "keywords": [
     "eleventy",
